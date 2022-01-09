@@ -1,12 +1,12 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });</script>
 
-# **Notes on Deep Learning in Python**
+# **Notes on Tensorflow**
 
 **Source**: DataCamp \
 **Aggregator**: Trinh Tran To Bang (Rachel1809)
 
-- [**Notes on Deep Learning in Python**](#notes-on-deep-learning-in-python)
+- [**Notes on Tensorflow**](#notes-on-tensorflow)
   - [**1. Loss Function**](#1-loss-function)
     - [*MSE*](#mse)
     - [*MAE*](#mae)
