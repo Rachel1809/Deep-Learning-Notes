@@ -42,7 +42,7 @@
 ## **1. Loss Function**
 
 <p align="center">
-  <img src="Error.png" alt="Loss function"/>
+  <img src="img/Error.png" alt="Loss function"/>
 </p>
 
 ### *MSE*
@@ -149,7 +149,7 @@ Components of a typical hidden layer:
 ### *Sigmoid activation function*
 
 <p align="center">
-  <img src="Sigmoid.png" alt="Loss function"/>
+  <img src="img/Sigmoid.png" alt="Loss function"/>
 </p>
 
 - pass the **sum of the product of weights and inputs** into 
@@ -162,7 +162,7 @@ Components of a typical hidden layer:
 ### *Relu activation function*
 
 <p align="center">
-  <img src="relu.png" alt="Loss function"/>
+  <img src="img/relu.png" alt="Loss function"/>
 </p>
 
 - Return x if x > 0; else return 0
@@ -328,7 +328,7 @@ You may have noticed that the validation loss, `val_loss`, was substantially hig
 - **Many premade models** that can be instantiated by setting a handful of model parameters
 
 <p align="center">
-  <img src="estimator.png" alt="API"/>
+  <img src="img/estimator.png" alt="API"/>
 </p>
 
 ### *Model specification and training*

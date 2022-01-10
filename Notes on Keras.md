@@ -74,7 +74,7 @@
 ## **When using binary classification**
 
 <p align="center">
-  <img src="binary_class.png" alt="Bianry classification"/>
+  <img src="img/binary_class.png" alt="Bianry classification"/>
 </p>
 
 - Solve problem predicting whether an observation belongs to one of two possible classes
@@ -92,7 +92,7 @@ The `sigmoid` activation function squashes the neuron output to a floating point
 $$\sigma = \frac{1}{1 + e^{-z}}$$
 
 <p align="center">
-  <img src="Sigmoid.png" alt="Loss function"/>
+  <img src="img/Sigmoid.png" alt="Loss function"/>
 </p>
 
 The `categorical_crossentropy` measures the difference between the predicted probabilities and the true label of the class we should have predicted.
